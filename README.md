@@ -1,76 +1,135 @@
-<h1 align="center">🚀 Module 1 – Programming Foundation</h1>
+💻 C++ Programming – Module Based Learning
 
-<p align="center">
-  <b>JSOFT26266</b> | C++ Programming Projects
-</p>
+📌 About This Repository
 
-<hr>
+This repository contains my C++ programming practice and learning journey. It is organized into different modules, starting from basic programming concepts and progressing towards advanced topics.
 
-<h2>📚 About This Repository</h2>
+The main goal is to improve my problem-solving skills, understand programming concepts, and develop logical thinking using C++.
 
-<p>
-This repository contains my <b>C++ programming exercises and projects</b>
-from Module 1 – Programming Foundation.
-</p>
+🗂️ Modules Covered
 
-<h2>💻 Topics Covered</h2>
+Module 1 – C++ Fundamentals
 
-<ul>
-  <li>🟢 C++ Basics</li>
-  <li>🔵 Variables & Data Types</li>
-  <li>🟣 Input & Output</li>
-  <li>🟠 Conditional Statements</li>
-  <li>🔴 Loops</li>
-  <li>🟡 Functions</li>
-  <li>🟢 Problem Solving</li>
-</ul>
+* Introduction to C++
+* Basic Syntax
+* Variables and Data Types
+* Input and Output (cin, cout)
+* Operators and Expressions
 
-<h2>🧑‍💻 Programming Language</h2>
+Module 2 – Conditional Statements
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge&logo=cplusplus">
-</p>
+* If Statement
+* If-Else Statement
+* Else-If Ladder
+* Nested If-Else
+* Switch Statement
 
-<h2>📂 Projects</h2>
+Module 3 – Loops
 
-<table>
-<tr>
-<th>Category</th>
-<th>Description</th>
-</tr>
+* For Loop
+* While Loop
+* Do-While Loop
+* Multiplication Tables
+* Number Patterns
+* Number Reversal
+* Digit Counting
 
-<tr>
-<td>🟢 Beginner</td>
-<td>Basic C++ programming exercises</td>
-</tr>
+Module 4 – Arrays
 
-<tr>
-<td>🔵 Intermediate</td>
-<td>Intermediate programming problems</td>
-</tr>
+* Array Basics
+* Array Input and Output
+* Finding Largest and Smallest Elements
+* Array Searching
+* Array Operations
 
-<tr>
-<td>🔴 Challenge</td>
-<td>Problem-solving challenges</td>
-</tr>
-</table>
+Module 5 – Functions
 
-<h2>🛠️ Tools Used</h2>
+* Function Declaration
+* Function Definition
+* Function Calling
+* Parameters and Arguments
+* Return Values
+* Mathematical Functions
+* Recursive Functions
 
-<ul>
-  <li>💻 VS Code</li>
-  <li>🐙 GitHub</li>
-  <li>⚙️ C++ Compiler</li>
-  <li>🍎 MacBook</li>
-</ul>
+Module 6 – Object-Oriented Programming (OOP)
 
-<h2>🎯 Learning Goal</h2>
+* Classes and Objects
+* Constructors
+* Default Constructors
+* Parameterized Constructors
+* Access Specifiers
+* Member Functions
 
-<p>
-To build a strong foundation in programming and problem-solving
-using C++.
-</p>
+🛠️ Technologies Used
 
-<hr>
+* Programming Language: C++
+* Code Editor: Visual Studio Code
+* Compiler: GCC / G++
+* Version Control: Git
+* Repository Hosting: GitHub
 
-<h3 align="center">✨ Learning • Coding • Improving ✨</h3>
+📁 Project Structure
+
+CPP-Programming/
+│
+├── Module-1/
+│   ├── Beginner/
+│   ├── Intermediate/
+│   └── Challenge/
+│
+├── Module-2/
+│   ├── Conditions/
+│   └── Switch/
+│
+├── Module-3/
+│   └── Loops/
+│
+├── Module-4/
+│   └── Arrays/
+│
+├── Module-5/
+│   └── Functions/
+│
+├── Module-6/
+│   └── OOP/
+│
+└── README.md
+
+▶️ How to Run C++ Programs
+
+1. Clone this repository.
+
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Open the project in VS Code.
+3. Open any .cpp file.
+4. Compile the program.
+
+g++ filename.cpp -o output
+
+5. Run the program.
+
+./output
+
+🎯 Learning Objectives
+
+* Understand C++ programming fundamentals.
+* Develop logical thinking.
+* Practice problem-solving.
+* Learn functions and object-oriented programming.
+* Improve coding skills through practical exercises.
+
+📈 Learning Progress
+
+This repository will be updated regularly as I complete new modules, exercises, and programming challenges.
+
+👨‍💻 Author
+
+Ashwanth
+
+C++ Programming Student
+
+⸻
+
+⭐ Thanks for visiting my C++ Programming Repository !
