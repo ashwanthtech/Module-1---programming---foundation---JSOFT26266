@@ -9,7 +9,6 @@ int main()
 
     cout << "Enter number of elements: ";
     cin >> n;
-
    
     for(int i = 0; i < n; i++)
     {
@@ -17,11 +16,9 @@ int main()
         cin >> arr[i];
     }
 
-  
     max = arr[0];
     min = arr[0];
 
-  
     for(int i = 0; i < n; i++)
     {
         if(arr[i] > max)
